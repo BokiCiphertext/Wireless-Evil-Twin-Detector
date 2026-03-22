@@ -11,7 +11,8 @@ A python based Wireless Intrusion Detection System (WIDS) for identifying rogue 
 2. Run script: 'sudo python3 evil_twin_detector.py'
 
 ### **Python Code**
-: from scapy.all import *
+
+from scapy.all import *
 
 seen_wifi = {}
 
